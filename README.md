@@ -1,6 +1,3 @@
-Here’s a **premium, portfolio-level README.md** with badges, visuals, and a “journey” narrative — designed to stand out on GitHub 🚀
-
----
 
 # 🌟 LeetCode 150 – My Coding Interview Journey
 
@@ -168,10 +165,3 @@ MIT License
 > “This isn’t just a repository.
 > It’s proof of consistency, growth, and commitment.”
 
----
-
-If you want, I can next:
-
-* Auto-fill your **exact solved count dynamically**
-* Add a **GitHub streak tracker**
-* Or make this into a **portfolio highlight README (next level 🔥)**
